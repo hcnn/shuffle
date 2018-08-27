@@ -1,0 +1,9 @@
+{
+  "name": "shuffle",
+  "version": "0.1.0",
+  "repo": "hcnn/shuffle",
+  "description": "shuffle elements of an array. aka permutation.",
+  "keywords": ["shuffle", "permutate"],
+  "license": "MIT",
+  "src": ["shuffle.c", "shuffle.h"]
+}
