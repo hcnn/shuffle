@@ -7,6 +7,3 @@ Also known as permutation.
 clib install hcnn/shuffle
 ```
 
-### Links
-* http://hcnn.de/docs/shuffle
-
